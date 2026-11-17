@@ -19,7 +19,7 @@
   
   3. Edit the price and click **Save**.
   
-  ![Manual price update](images/Group%201.png)
+  ![Manual price update](images/Group%202.png)
 
 #### Result
 
@@ -41,7 +41,7 @@
   
   5. Click **Apply Changes**.
   
-  ![Bulk price update](images/Group%202.png)
+  ![Bulk price update](images/Group%201.png)
 
 #### Result
 
